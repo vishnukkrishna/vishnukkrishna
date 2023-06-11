@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![logo](https://github.com/vishnukkrishna/vishnukkrishna/blob/main/LinkedIn%20Banner%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Vishnu Krishnakumar</h1>
-<h3 align="center">Python Django Developer from India</h3>
+<h3 align="center">Python Django Developer</h3>
 <img
   align="right"
   alt="coding"
