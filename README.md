@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - Hi EveryOne....
 -->
 ![logo](https://github.com/vishnukkrishna/vishnukkrishna/blob/main/LinkedIn%20Banner%20(2).jpg)
-<h1 align="center">Hi 👋, I'm Vishnu Krishnakumar</h1>
+<h1 align="center">Hi 👨‍💻, I'm Vishnu Krishnakumar</h1>
 <h3 align="center">Python Django Developer</h3>
 <img
   align="right"
@@ -209,20 +209,16 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&show_icons=true&locale=en" alt="vishnukkrishna" />
+
 ## Leetcode
 ![Vishnu's Leetcode](https://leetcard.jacoblin.cool/vishnukkrishna?ext=heatmap)
-<!--<p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnukkrishna" alt="vishnukkrishna" /></a> </p>
+<!-- <p>
   <img
     align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnukkrishna&show_icons=true&locale=en&layout=compact"
     alt="vishnukkrishna"
   />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&show_icons=true&locale=en"
-    alt="vishnukkrishna"
-  />
-</p>-->
+</p> -->
