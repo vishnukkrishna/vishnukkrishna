@@ -211,11 +211,11 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="right"> 
+<!--<p align="right"> 
   
   ![Vishnu's Leetcode](https://leetcard.jacoblin.cool/vishnukkrishna?ext=heatmap)
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&show_icons=true&locale=en" alt="vishnukkrishna" />
-</p>
+</p>-->
 
 <p align="right"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnukkrishna" alt="vishnukkrishna" /></a> 
