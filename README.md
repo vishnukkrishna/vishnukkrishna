@@ -216,7 +216,7 @@ Here are some ideas to get you started:
   ![Vishnu's Leetcode](https://leetcard.jacoblin.cool/vishnukkrishna?ext=heatmap)
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&show_icons=true&locale=en" alt="vishnukkrishna" />
 </p>-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&show_icons=true&locale=en" alt="vishnukkrishna" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="vishnukkrishna" /></p>
 
 <p align="right"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnukkrishna" alt="vishnukkrishna" /></a> 
