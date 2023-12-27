@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   width="400"
   src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 />
+<a href="https://www.github.com/vishnukkrishna" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/vishnukkrishna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=vishnukkrishna&label=Profile%20views&color=0e75b6&style=flat"
@@ -216,7 +218,9 @@ Here are some ideas to get you started:
   ![Vishnu's Leetcode](https://leetcard.jacoblin.cool/vishnukkrishna?ext=heatmap)
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&show_icons=true&locale=en" alt="vishnukkrishna" />
 </p>-->
+<b>My GitHub Stats</b>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="vishnukkrishna" /></p>
+
 
 <p align="right"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnukkrishna" alt="vishnukkrishna" /></a> 
