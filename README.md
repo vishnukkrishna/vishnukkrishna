@@ -4,9 +4,12 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Vishnu Krishnakumar</h1>
-<h3 align="center">🚀 Python Django Developer 🌟</h3>
-<p align="center">Passionate about building robust and scalable web applications using the power of Python and Django. Experienced in crafting elegant solutions for complex problems and dedicated to continuous learning in the ever-evolving field of web development. Let's bring innovative ideas to life!</p>
+<h1 align="center" style="color: #4A90E2; font-family: Arial, sans-serif; margin-bottom: 0;">Hi 👋, I'm Vishnu Krishnakumar</h1>
+<h3 align="center" style="color: #78C350; font-family: 'Courier New', Courier, monospace; margin-top: 5px;">🚀 Python Django Developer 🌟</h3>
+<p align="center" style="color: #333; font-family: 'Times New Roman', Times, serif; max-width: 600px; margin: auto; line-height: 1.6;">
+    Passionate about building robust and scalable web applications using the power of Python and Django. Experienced in crafting elegant solutions for complex problems and dedicated to continuous learning in the ever-evolving field of web development. Let's bring innovative ideas to life!
+</p>
+
 
 
 <!-- Animated Coding GIF -->
