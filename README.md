@@ -43,6 +43,9 @@
         <a href="https://www.leetcode.com/vishnukkrishna" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
         </a>
+            <a href="https://www.hackerrank.com/profile/vishnukkrishna11" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
+        </a>
       </p>
     </td>
 <!-- Skills Section -->
