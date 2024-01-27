@@ -19,29 +19,33 @@
   <img src="https://komarev.com/ghpvc/?username=vishnukkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Social Links -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/_v_i_c_h_o_o_z_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/vishnukrishnakumar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/16076204/vishnu-k" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/vishnu_k_krishna" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/vishnukkrishna" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- Social Links Column -->
+    <td valign="top" width="50%" style="background-color: #f2f2f2; padding: 20px;">
+      <h3 align="center" style="color: #333;">Connect with me:</h3>
+      <p align="center">
+        <a href="https://twitter.com/_v_i_c_h_o_o_z_" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+        </a>
+        <a href="https://linkedin.com/in/vishnukrishnakumar" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+        <a href="https://stackoverflow.com/users/16076204/vishnu-k" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+        </a>
+        <a href="https://instagram.com/vishnu_k_krishna" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+        </a>
+        <a href="https://www.leetcode.com/vishnukkrishna" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+        </a>
+      </p>
+    </td>
 <!-- Skills Section -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+    <td valign="top" width="50%" style="background-color: #e6e6e6; padding: 20px;">
+      <h3 align="center" style="color: #333;">Languages and Tools:</h3>
+      <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -174,8 +178,10 @@
       height="40"
     />
   </a>
-  <!-- Add more badges for other skills -->
-</p>
+  </p>
+</td>
+</tr>
+</table>
 
 <!-- GitHub Stats -->
 <b><p align="center">My GitHub Stats</p></b>
