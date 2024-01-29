@@ -193,7 +193,7 @@
 <!-- GitHub Stats -->
 <b><p align="center">My GitHub Stats</p></b>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&&show_icons=true&title_color=6b3a5c&text_color=2a9d8f&bg_color=141414" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&&show_icons=true&title_color=1E90FF&text_color=2a9d8f&bg_color=141414" alt="GitHub Stats" />
 </p>
 
 
