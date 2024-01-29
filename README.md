@@ -4,10 +4,11 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center" style="color: #4A90E2; font-family: Arial, sans-serif; margin-bottom: 0;">Hi 👋, I'm Vishnu Krishnakumar</h1>
+<h1 align="center" style="color: #4A90E2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 0;">Hi 👋, I'm Vishnu Krishnakumar</h1>
+
 <h3 align="center" style="color: #78C350; font-family: 'Courier New', Courier, monospace; margin-top: 5px;">🚀 Python Django Developer 🌟</h3>
 <p align="center" style="color: #333; font-family: 'Times New Roman', Times, serif; max-width: 600px; margin: auto; line-height: 1.6;">
-    Passionate about building robust and scalable web applications using the power of Python and Django. Experienced in crafting elegant solutions for complex problems and dedicated to continuous learning in the ever-evolving field of web development. Let's bring innovative ideas to life!
+    🌐 Passionate about weaving robust and scalable web applications using the dynamic duo of Python and Django. A seasoned problem-solver, adept at sculpting elegant solutions for intricate challenges. Devoted to perpetual learning in the ever-evolving tapestry of web development. Let's breathe life into innovative ideas and create digital masterpieces! 🚀✨
 </p>
 
 
@@ -192,8 +193,9 @@
 <!-- GitHub Stats -->
 <b><p align="center">My GitHub Stats</p></b>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnukkrishna&&show_icons=true&title_color=6b3a5c&text_color=2a9d8f&bg_color=141414" alt="GitHub Stats" />
 </p>
+
 
 <!-- GitHub Trophies -->
 <p align="center"> 
