@@ -4,7 +4,8 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center" style="color: #4A90E2; margin-bottom: 0;">Hi 👋, I'm Vishnu Krishnakumar</h1>
+<h1 align="center" style="color: #4A90E2; margin-bottom: 0; font-family: 'Arial', sans-serif;">Hi 👋, I'm Vishnu Krishnakumar</h1>
+
 
 <h3 align="center" style="color: #78C350; font-family: 'Courier New', Courier, monospace; margin-top: 5px;">🚀 Python Django Developer 🌟</h3>
 <p align="center" style="color: #333; font-family: 'Times New Roman', Times, serif; max-width: 600px; margin: auto; line-height: 1.6;">
