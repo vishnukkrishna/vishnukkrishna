@@ -16,7 +16,7 @@
 
 <!-- Animated Coding GIF -->
 <p align="center">
-  <img alt="Coding Animation" width="400" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" />
+  <img alt="Coding Animation" width="400" src="https://media.licdn.com/dms/image/D4D22AQGUZBO8tYlbPA/feedshare-shrink_2048_1536/0/1717738619239?e=1720656000&v=beta&t=ci0_DZAZ0qwQZy2gYVGdpB2VPvgVXZYrzDhVjy9t0RI" />
 </p>
 
 <!-- Profile Views Badge -->
