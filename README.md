@@ -7,7 +7,7 @@
 <h1 align="center" style="color: #4A90E2; margin-bottom: 0;>Hi 👋, I'm Vishnu Krishnakumar</h1>
 
 
-<h3 align="center" style="color: #78C350; font-family: 'Courier New', Courier, monospace; margin-top: 5px;">🚀 Python Django Developer 🌟</h3>
+<h3 align="center" style="color: #78C350; font-family: 'Courier New', Courier, monospace; margin-top: 5px;">🚀 Full Stack Developer (Python Django + React JS) 🌟</h3>
 <p align="center" style="color: #333; font-family: 'Times New Roman', Times, serif; max-width: 600px; margin: auto; line-height: 1.6;">
     🌐 Passionate about weaving robust and scalable web applications using the dynamic duo of Python and Django. A seasoned problem-solver, adept at sculpting elegant solutions for intricate challenges. Devoted to perpetual learning in the ever-evolving tapestry of web development. Let's breathe life into innovative ideas and create digital masterpieces! 🚀✨
 </p>
